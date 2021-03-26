@@ -7,11 +7,11 @@
 
 Adafruit_PCD8544 display = Adafruit_PCD8544(8, 9, 10, 11, 12);  //Initialise display object
 
-// pin 7 - Serial clock out (SCLK)
-// pin 6 - Serial data out (DIN)
-// pin 5 - Data/Command select (D/C)
-// pin 4 - LCD chip select (CS)
-// pin 3 - LCD reset (RST)
+// pin 8 - Serial clock out (SCLK)
+// pin 9 - Serial data out (DIN)
+// pin 10 - Data/Command select (D/C)
+// pin 11 - LCD chip select (CS)
+// pin 12 - LCD reset (RST)
 
 
 /********* constants *******/
